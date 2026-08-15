@@ -75,6 +75,8 @@
 - **PostHog:** analytics de produto e eventos.  
 - **Clarity:** mapas de calor e gravações de sessões gratuitos.  
 
+## Pesquisa de Ideias
+- **[IdeaHunter](https://ideahunter.today/):** pesquisa com IA para encontrar ideias de app e micro-SaaS com sinais de demanda.
 
 ## Marketing
 - **MailerLite:** e-mail marketing acessível.  
