@@ -91,7 +91,8 @@
 - **Discourse:** fórum open source.
 - **Docsify:** ferramenta leve para criar sites de documentação a partir de arquivos Markdown.
 
-
+## Gestão de Projetos & Tarefas
+- **[Jira](https://www.atlassian.com/software/jira):** rastreamento de issues e metodologias ágeis (Scrum/Kanban) com versão gratuita disponível.
 
 Vou continuar adicionando outras ferramentas.
 
