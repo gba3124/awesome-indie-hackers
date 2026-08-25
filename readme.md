@@ -17,6 +17,7 @@
 - **Next.js:** framework React popular para web e API.
 - **Nuxt:** framework Vue.js para SSR/SSG focado em DX.
 - **[Tweakcn](https://tweakcn.com/):** Dezenas de temas prontos com shadcn/ui.
+- **[Codex Theme Builder](https://codextheme.tools):** Construtor gratuito de temas para o OpenAI Codex, com preview ao vivo e exportacao de CSS tokens.
 - **TanStack (Query, Router, Table):** utilitários de estado, cache e tabelas.
 - **Nuqs:** gerenciamento de estado via URL queries no React/Next.
 - **Figma:** padrão para protótipos de UI.
